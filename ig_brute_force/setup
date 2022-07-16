@@ -14,9 +14,9 @@ echo -e "\e[92m"
 center "SETUP PROCESS"
 echo -e "
        $grn-----------------------------------$grn
-      |$grn FOLLLOW:$cod github.com/noob-hackers $grn |$grn
-      |$grn SUBSCRIBE:$cod Noob Hackers          $grn |$grn
-      |$grn CHAT:$cod wa.me/+919113948054        $grn |$grn
+      |$grn FOLLLOW:$cod HackerSM9 $grn |$grn
+      |$grn GitHub:$cod https://github.com/HackerSM9        $grn |$grn
+      |$grn G-DEV:$cod https://g.dev/Hackersm9       $grn |$grn
        $grn-----------------------------------$grn
 "
 center "INSTALLATION"
