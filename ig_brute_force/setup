@@ -1,4 +1,3 @@
-
 clear
 center() {
   termwidth=$(stty size | cut -d" " -f2)
