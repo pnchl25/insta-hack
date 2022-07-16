@@ -283,7 +283,7 @@ menu1
 elif [ "$p" = "z" ];
 then
 cd $HOME/insta-hack/ig_brute_force
-rm ssm.hacker
+rm noob.noob
 banner
 menu1
 else
