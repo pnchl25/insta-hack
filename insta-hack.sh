@@ -29,11 +29,11 @@ echo -e    "\e[0m                                 ▐██──\e[91m▀▀\e[
 echo "                                ▄████▄──▐▌──▄████▄"
 echo -e    "\e[91m"  
 echo " "  
-figlet -f Bloody Insta-Hack | lolcat
+figlet Insta-Hack | lolcat
 
     echo " "
     echo -e "$Red                                 ⫸ Coded by$Yellow HackerSM9$Red ⫷\033[0m"
-    echo -e "$Red                               ⫸$Purple Hacker | Developer | Programmer $Red ⫷\033[0m"
+    echo -e "$Red                               ⫸$Purple Hacker | Developer | Programmer $Red⫷\033[0m"
 echo " "
 echo -e " $Green     |---------------------------------------------------------------------|"
 echo -e " $Green     ||----------------------------$Cyan [features] $Green---------------------------||"
