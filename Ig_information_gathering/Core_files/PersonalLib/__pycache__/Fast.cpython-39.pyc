@@ -1,1 +1,55 @@
+a
+_�`�6�@spddlZddlZddlZddlZdZdZdZdd�Zd�d  d
+�Z      d
+         d
+          �Z
+d�Z
+   dd�Z
+dd�Zdd�Zdd�Zdd�Zd�Zdd�Zdd �Zd!d"�Zd#d$�Zd%d&�Zd'd(�Zd)d*�Zd+d,�Zd-d.�Z/d0�Zd1d2�Zd3d4�Zd5d6�Zd7d8�Z d9d:�Z!d;d<�Z"d=d>�Z#d?d@�Z$dAdB�Z%dCdD�Z&dEdF�Z'dGdH�Z(dIdJ�Z)dKdL�Z*dMdN�Z+dOdP�Z,dQdR�Z-dSdT�Z.dS)U�Nzzz
+cCs$tt�dt�|�dt��dd�dS)Nu
+                                、__ [~] z : �)�end)�print�Y�LB�W)ZWord��c/data/data/com.termux/files/home/insta-hack/Ig_information_gathering/Core_files/PersonalLib/Fast.py�
+                                  BeforeFlussr
+cCs@|D],}tj�|||�tj��t�|�qt�|�dS)N)�sys�stdout�write�flush�time�sleep)�Which�Color1�Color2�
+SleepTime1�
+SleepTime2�charr        �Flush
+                              s
 
+
+rcCs(d|}t�|�}t|jttdd�dS)Nz&http://tinyurl.com/api-create.php?url=皙�����?�)requests�getr�textr)ZLinkZApiUrlZShortedr  �       ShortLinks
+rCs�dd�t�d�D�}d||vr"n(d|d|d|vr<nt�d|�td|d|dd��}|�|�Wd�n1s�0YdS) NcSs*g|]"\}}}|D]}tj�||��qqS)�os�path�join)�.0�r�d�f�filer     �
+<listcomp>�z"SaveAsTextFile.<locals>.<listcomp>zUsers/�/z.txtz
+                                                              mkdir Users/za+�
+)SaveThisFileName�pathsZFiler   �SaveAsTextFiles
+                                                r/c     Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   NzLoggin Page IdZlogging_page_idrrz[~] Loggin Page Id : �Nonez[~] Loggin Page Id : Noner�r
+r�strrr/r��Datar-r      �
+                         LogginPageIdr5c        Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   NzShow Suggested ProfilesZshow_suggested_profilesrrz[~] Show Suggested Profiles : r0z"[~] Show Suggested Profiles : Nonerr1r3r      �ShowSuggestedProfilesr6c       Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   NzShow Follow DialogZshow_follow_dialogrrz[~] Show Follow Dialog : r0z[~] Show Follow Dialog : Nonerr1r3r   �ShowFollowDialogr7c    Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   NzShow View ShopZshow_view_shoprrz[~] Show View Shop : r0z[~] Show View Shop : Nonerr1r3r     �
+                                         ShowViewShopr8c        Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   N�      BiographyZ   biographyrrz[~] Biography : r0z[~] Biography : Nonerr1r3r        r9r9cCcountry_blockrrz[~] Country Block : r0z[~] Country Block : Nonerr1r3r�
+                                                                     CountryBlockr:c  Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)  Nz
+ External UrlZ
+              external_urlrrz[~] External Url : r0z[~] External Url : Nonerr1r3r      �
+                 ExternalUrlr;c Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   NzExternal Url LinkshimmedZexternal_url_linkshimmedrrz[~] External Url Linkshimmed : r0z#[~] External Url Linkshimmed : Nonerr1r3r  �ExternalUrlLinkshimmedr<c      Cs~zBtd�tt|dd�ttdd�tdt|dd�|�Wn.td�tdttdd�t|�Yn0td     �dS)
+NzEdge Followed ByZedge_followed_by�countrrz[~] Edge Followed By : r0z] Edge Followed By : Nonerr1r3r �EdgeFollowedBr>c       Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   N�FbidZfbidrrz
+                                                      [~] Fbid : r0z[~] Fbid : Nonerr1r3r     r?r?c   Cs~zBtd�tt|dd�ttdd�tdt|dd�|�Wn.td�tdttdd�t|�Yn0td     �dS)
+Nz
+  Edge FollowZ
+              edge_followr=rrz[~] Edge Follow : r0z[~] Edge Follow : Nonerr1r3r       �
+EdgeFollowr@c   Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)  Nz       Full NameZ      full_namerrz[~] Full Name : r0z[~] Full Name : Nonerr1r3r     FullNamerAc     Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   NzHas Ar EffectsZhas_ar_effectsrrz[~] Has Ar Effects : r0z[~] Has Ar Effects : Nonerr1r3r     �
+                                         HasArEffectsrBc        Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   Nz      Has ClipsZ   has_clipsrrz[~] Has Clips : r0z[~] Has Clips : Nonerr1r3r        HasClipsrCc   Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)     Nz
+Has GuidesZ
+has_guidesrrz[~] Has Guides : r0z[~] Has Guides : Nonerr1r3r    �    HasGuidesrDc     Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)  Nz
+ Has ChannelZ
+             has_channelrrz[~] Has Channel : r0z[~] Has Channel : Nonerr1r3r  �
+HasChannelrEc   Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)  NzHighlight Reel CountZhighlight_reel_countrrz] Highlight Reel Count : r0z[~] Highlight Reel Count : Nonerr1r3r        �HighlightReelCountrFcCsvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0td�dSN�idrrz      [~] id[~] id : Nonerr1r3r     rGrGc   Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   Nzis Business AccountZis_business_accountrrz[~] is Business Account : r0z[~] is Business Account : Nonerr1r3r �isBusinessAccountrHc Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)     Nzis Joined RecentlyZis_joined_recentlyrrz[~] is Joined Recently : r0z[~] is Joined Recently : Nonerr1r3r   �isJoinedRecentlyrIc    Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   NzBusiness Category NameZbusiness_category_namerrz[~] Business Category Name : r0z![~] Business Category Name : Nonerr1r3r  �BusinessCategoryNamrJc Csvz:td�tt|d�ttdd�tdt|category_enumrrz[~] Category Enum : r0z[~] Category Enum : Nonerr1r3r�
+                                                                     CategoryEnurKc   Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)  Nz
+is PrivateZ
+is_privaterrz[~] is Private : r0z[~] is Private : Nonerr1r3r    �    isPrivatrLc      Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)  Nz
+ is Verified�
+             is_verifiedrrz[~] is Verified : r0z[~] is Verified : Nonerr1r3r  �
+isVerifiedrNc   Csnz2td�tt|d��tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS) NzProfile Pic Url HdZprofile_pic_url_hdz[~] Profile Pic Url Hd : r0rrz[~] Profile Pic Url Hd : Noner)r
+rr2r/rrrr3r     �ProfilePicUrlHdrOc     Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   NzShould Show CategoryZshould_show_categoryrrz] Should Show Category : r0z[~] Should Show Category : Nonerr1r3r    �ShouldShowCategoryrPc   Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   NUsernameusernamerrz[~] Username : r0z[~] Username : Nonerr1r3r       rQrQc   Cs~zBtd�tt|dd�ttdd�tdt|dd�|�Wn.td�tdttdd�t|�Yn0td    �dS)
+NzEdge Felix Video TimelineZedge_felix_video_timeliner=rrz [~] Edge Felix Video Timeline : r0z$[~] Edge Felix Video Timeline : Nonerr1r3r  �EdgeFelixVideoTimelinerSc       Cs~zBtd�tt|dd�ttdd�tdt|dd�|�Wn.td�tdttdd�t|�Yn0td     �dS)
+NzEdge Owner To Timeline MediaZedge_owner_to_timeline_mediar=rrz#[~] Edge Owner To Timeline Media : r0z'[~] Edge Owner To Timeline Media : Nonerr1r3r       �EdgeOwnerToTimelineMediarTc    Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   NzOverall Category NameZoverall_category_namerrz[~] Overall Category Name : r0z [~] Overall Category Name : Nonerr1r3r      �OverallCategoryNamerUc Csvz:td�tt|d�ttdd�tdt|d�|�Wn.tcategory_namerrz[~] Category Name : r0z[~] Category Name : Nonerr1r3r�
+                                                                     CategoryNamerVc  Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)  NzConnected Fb PageZconnected_fb_pagerrz[~] Connected Fb Page : r0z[~] Connected Fb Page : Nonerr1r3r  �ConnectedFbPagerWc     Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   NzToast Content On LoadZtoast_content_on_loadrrz[~] Toast Content On Load : r0z [~] Toast Content On Load : Nonerr1r3r      �ToastContentOnLoadrXc  Csvz:td�tt|d�ttdd�tdt|d�|�Wn.td�tdttdd�td|�Yn0t�dS)   Nzrz"[~] Profile Pic Edit Sync Props : r0z&[~] Profile Pic Edit Sync Props : Nonerr1r3r       �ProfilePicEditSyncPropsrYc   Csnz2td�tt|�ttdd�tdt|�|�Wn.td�tdttdd�td|�Yn0td�dSNzHas Public Storyrrz[~] Has Public Story : r0z] Has Public Story : Nonerr1r3r     �HasPublicStoryrZc      Csnz2td�tt|�ttdd�tdt|�|�Wn.td�tdttdd�td|�Yn0td�dSNz
+             is Live Nowrrz[~] is Live Now : r0z[~] is Live Now : Nonerr1r3r  �       isLiveNowr[)/rr
+                               rrrrrr
+rrr/r5r6r7r8r9r:r;r<r>r?r@rArBrCrDrErFrGrHrIrJrKrLrNrOrPrQrSrTrUrVrWrXrYrZr[r <module>sV
