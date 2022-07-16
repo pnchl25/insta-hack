@@ -1,0 +1,10 @@
+Cs(ttdttdd�t�d�t�dS)Nr  皙�����?g333333�?�clear)r�dict�BG_G�W�os�system�Bannerrrrr�mainOs                                                   r$cCslttdttdd�tddd�tttdtdd�ttdttd       �ttd                          ttd     �t��dS)
+)�endg�������?rrrr�z                        �
+rr�BG_Rr �print�Yr�exitrrrr�    FalseMainTs
+
+                                           r,cCs@ttdttdd�ttdttdd�ttdtt���Q��?rrr)rrr*r �LB�Brrrrr#\sr#cCs�t�d�ttddttdd�ttdttd�ttd     ttd
+d�ttdd
+      ttdd�t�t�rv�nt    �dS)
+                            Nrr�g{�G�z�?rrrg�?rr-�)
+r!r"rrr r/�Gr$r,rrrr�Screenas
+r3)Zurllib.requestrrequestsr!rrr r2r*�Rr/r.r(r�BG_P�BG_Krrr$r,r#r3rrrr<module>sH
