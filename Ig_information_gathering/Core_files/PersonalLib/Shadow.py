@@ -39,10 +39,10 @@ dict = {
 ''',
 	"Draw" : '''
 
-	    + - -- [ BY HackerSM9 ]
+	    + - -- [ BY \x48\x61\x63\x6B\x65\x72\x53\x4D\x39 ]
 	    + - -- [ V 2.5 ]
-	    + - -- [ Github : @HackerSM9 ]
-            + - -- [ Twitter : @hackersm9_]
+	    + - -- [ Github : @\x48\x61\x63\x6B\x65\x72\x53\x4D\x39 ]
+            + - -- [ Twitter : @\x68\x61\x63\x6B\x65\x72\x53\x4D\x39_]
 
 	>>>  EXIT USE : CTRL + C + ENTER  <<<
 ''',
