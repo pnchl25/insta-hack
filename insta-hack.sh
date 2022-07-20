@@ -17,7 +17,7 @@ apt-get install python
 apt-get install python2
 clear
 echo -e "$Purple Created By \e[1;34m"
-       figlet HackerSM9 | lolcat
+toilet -f ivrit HackerSM9 | lolcat
 sleep 2.0
     echo -e " \e[96m  
                                      ████████ \e[0m"
@@ -29,11 +29,11 @@ echo -e    "\e[0m                                 ▐██──\e[91m▀▀\e[
 echo "                                ▄████▄──▐▌──▄████▄"
 echo -e    "\e[91m"  
 echo " "  
-figlet Insta-Hack | lolcat
+toilet -f ivrit Insta-Hack | lolcat
 
     echo " "
     echo -e "$Red                                 ⫸ Coded by$Yellow HackerSM9$Red ⫷\033[0m"
-    echo -e "$Red                           ⫸$Purple Hacker | Developer | Programmer $Red⫷\033[0m"
+    echo -e "$Red                       ⫸$Purple Hacker | Developer | Programmer $Red⫷\033[0m"
 echo " "
 echo -e " $Green     |---------------------------------------------------------------------|"
 echo -e " $Green     ||----------------------------$Cyan [features] $Green---------------------------||"
