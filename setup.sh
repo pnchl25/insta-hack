@@ -6,5 +6,5 @@ apt install python2
 apt install python3
 apt install git
 pkg install lolcat 
-pip2 install lolcat
+pip3 install lolcat
 git clone https://github.com/xero/figlet-fonts
