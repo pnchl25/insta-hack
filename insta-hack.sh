@@ -14,15 +14,6 @@ clear
 echo -e "$Purple Created By \e[1;34m"
 toilet -f ivrit HackerSM9 | lolcat
 sleep 2.0
-    echo -e " \e[96m  
-                                     ████████ \e[0m"
-echo "                                 ████████████████
-                                   █─▄▀█──█▀▄─█
-                                  ▐▌──────────▐▌"
-echo -e    "\e[0m                                  █▌\e[91m▀▄──▄▄──▄▀\e[0m▐█"
-echo -e    "\e[0m                                 ▐██──\e[91m▀▀\e[91m──▀▀──\e[0m██" 
-echo "                                ▄████▄──▐▌──▄████▄"
-echo -e    "\e[91m"  
 echo " "  
 toilet -f ivrit Insta-Hack | lolcat
 
