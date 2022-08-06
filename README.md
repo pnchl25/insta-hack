@@ -1,7 +1,7 @@
 # Insta-Hack by HackerSM9
 
 # Disclaimer:
-> **_Note_**:
+> **_Note_**: You shall not misuse the information to gain unauthorised access. I will not be Responsible for Anything, Use at Your Own Risk..⚠️ This not for **illegal usage..⚠️**
 
 ## About tool
 All in one Instagram hacking tool available (Insta information gathering, Insta brute force, Insta account auto repoter)
