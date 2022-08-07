@@ -71,7 +71,7 @@ def Flush(Which, Color1, Color2, SleepTime1, SleepTime2):
     
 def connect():
     try:
-        urllib.request.urlopen('https://google.com')
+        urllib.request.urlopen('https://www.instagram.com/')
         return True
     except:
         return False
