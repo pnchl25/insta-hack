@@ -8,4 +8,5 @@ apt install git
 pkg install lolcat 
 pip3 install lolcat
 git clone https://github.com/xero/figlet-fonts
+pip install -r requirements.txt
 bash insta-hack.sh
