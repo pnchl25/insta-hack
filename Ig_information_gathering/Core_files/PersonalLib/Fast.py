@@ -6,7 +6,7 @@ Y = '\033[33;1m'
 LB = '\033[1;36;40m'
 ################################
 def BeforeFlush(Word):
-    print (f'{Y}	、~→ [~] {LB}{Word} : {W}', end='')
+    print (f'{Y}	» → [✓] {LB}{Word} : {W}', end='')
     
 def Flush(Which, Color1, Color2, SleepTime1, SleepTime2):
     for char in Which :
