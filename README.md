@@ -42,8 +42,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 * `cd insta-hack`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
-* `bash setup.sh`
-* `bash insta-hack.sh`
+* `bash setup`
 
 ## INSTALLATION [Kali Linux]
 
