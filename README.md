@@ -59,7 +59,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 ## Screenshot:
 <br>
 <p align="center">
-<img width="95%" src="https://github.com/HackerSM9/insta-hack/blob/main/Ig_information_gathering/Core_files/Insta-Hack.jpg"\>
+<img width="95%" src="https://github.com/HackerSM9/insta-hack/blob/main/Ig_information_gathering/Core_files/Insta-Hack.jpg"\></p>
 
 > Osint Tool as id_insta.py ↓
 
