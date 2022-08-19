@@ -10,5 +10,6 @@ pip3 install lolcat
 git clone https://github.com/xero/figlet-fonts
 pip install -r requirements.txt
 cd /data/data/com.termux/files/usr/bin 
-wget 
-bash insta-hack.sh
+wget https://raw.githubusercontent.com/HackerSM9/insta-hack/main/.lib/start
+cd
+start
