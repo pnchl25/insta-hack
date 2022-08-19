@@ -11,5 +11,6 @@ git clone https://github.com/xero/figlet-fonts
 pip install -r requirements.txt
 cd /data/data/com.termux/files/usr/bin 
 wget https://raw.githubusercontent.com/HackerSM9/insta-hack/main/.lib/start
+chmod +x *
 cd
 start
