@@ -1,5 +1,4 @@
 #!/bin/env python3
-
 import requests
 import random
 import json
