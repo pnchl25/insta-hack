@@ -22,7 +22,7 @@ def get_page(usrname):
 	global resp_js
 	session = requests.session()
 	session.headers = {'User-Agent': random.choice(useragent)}
-	resp_js = session.get('https://www.instagram.com/'+usrname+'/?__a=1').text
+	resp_js = session.get('https://www.instagram.com/'+usrname+'/?__a=1&__d=dis').text
 	return resp_js
 
 def exinfo():
