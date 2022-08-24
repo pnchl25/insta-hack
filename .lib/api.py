@@ -1,4 +1,5 @@
 #!/bin/env python3
+from fake_useragent import UserAgent
 import requests
 import random
 import json
@@ -20,7 +21,7 @@ def proxy_session():
 def get_page(usrname):
 	global resp_js
 	session = requests.session()
-	session.headers = {'User-Agent': random.choice(useragent)}
+	session.headers = {'User-Agent': UserAgent().random }
 	resp_js = session.get('https://www.instagram.com/'+usrname+'/?__a=1&__d=dis').text
 	return resp_js
 
