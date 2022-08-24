@@ -80,8 +80,8 @@ def user_info(usrname):
 
 	usrinfo = {
 		'username': js['username'],
+                'name': js['full_name'],
 		'user id': js['id'],
-		'name': js['full_name'],
 		'followers': js['edge_followed_by']['count'],
 		'following': js['edge_follow']['count'],
 		'posts img': js['edge_owner_to_timeline_media']['count'],
