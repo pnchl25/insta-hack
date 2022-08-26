@@ -93,12 +93,13 @@ def user_info(usrname):
 		'verified': js['is_verified'],
 		'profile img': urlshortner(js['profile_pic_url_hd']),
 		'business account': js['is_business_account'],
-		#'connected to fb': js['connected_fb_page'],  -- requires login
+		'connected to fb': js['connected_fb_page'],  
 		'joined recently': js['is_joined_recently'],
 		'business category': js['business_category_name'],
 		'category': js['category_enum'],
 		'has guides': js['has_guides'],
                 'FBID': js['fbid'],
+                'Login Page Id': js['logging_page_id'],
 	}
 
 	banner()
