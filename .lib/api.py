@@ -80,7 +80,7 @@ def user_info(usrname):
 
 	usrinfo = {
 		'username': js['username'],
-                'name': js['full_name'],
+            'name': js['full_name'],
 		'user id': js['id'],
 		'followers': js['edge_followed_by']['count'],
 		'following': js['edge_follow']['count'],
@@ -98,8 +98,8 @@ def user_info(usrname):
 		'business category': js['business_category_name'],
 		'category': js['category_enum'],
 		'has guides': js['has_guides'],
-                'FBID': js['fbid'],
-                'Login Page Id': js['logging_page_id'],
+            'FBID': js['fbid'],
+            'Login Page Id': js['logging_page_id'],
 	}
 
 	banner()
