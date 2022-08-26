@@ -98,7 +98,7 @@ def user_info(usrname):
 		'business category': js['business_category_name'],
 		'category': js['category_enum'],
 		'has guides': js['has_guides'],
-                'FBID': js['fbid']['count'],
+                'FBID': js['fbid'],
 	}
 
 	banner()
