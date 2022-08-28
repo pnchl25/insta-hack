@@ -1,3 +1,3 @@
 cd
 cd insta-hack
-bash insta-hack.sh
+python3 insta-hack.py
