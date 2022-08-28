@@ -99,7 +99,6 @@ def user_info(usrname):
 		'category': js['category_enum'],
 		'has guides': js['has_guides'],
             'FBID': js['fbid'],
-            'Login Page Id': js['logging_page_id'],
 	}
 
 	banner()
