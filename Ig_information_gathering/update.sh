@@ -10,4 +10,4 @@ cd $HOME
 rm -rf insta-hack
 git clone https://github.com/HackerSM9/insta-hack
 cd insta-hack
-bash insta-hack.sh
+python3 insta-hack.py
