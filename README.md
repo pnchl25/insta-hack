@@ -36,7 +36,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 * `apt update`
 * `apt upgrade`
 * `pkg install python`
-* `pkg install python2`
+* `pkg install python3`
 * `pkg install git`
 * `git clone https://github.com/HackerSM9/insta-hack`
 * `ls`
@@ -48,14 +48,14 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 ## INSTALLATION [Kali Linux]
 
 * `sudo apt install python`
-* `sudo apt install python2`
+* `sudo apt install python3`
 * `sudo apt install git`
 * `git clone https://github.com/HackerSM9/insta-hack`
 * `ls`
 * `cd insta-hack`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
-* `sudo bash insta-hack.sh`
+* `sudo python3 insta-hack.py`
 
 ## Screenshot:
 <br>
