@@ -64,5 +64,5 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 ## Screenshot:
 <br>
 <p align="center">
-<img width="95%" src="https://github.com/HackerSM9/insta-hack/blob/master/Ig_information_gathering/Core_files/HackerSM9_insta_hack.jpg?sanitize=true"></p>
-<img width="95%" src="https://github.com/HackerSM9/insta-hack/blob/master/Ig_information_gathering/Core_files/Id_insta.jpg?sanitize=true"\>
+<img width="95%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0UVZFy6WxOw_5zFWQAxJegbd1N6F6cKOik7R6KAMMMpDLBvg8mYPSp4Fp4XzO7SUlQqjioJ_mCaQLsEeedWDEtayTOrOxvh8yfXjij1G7koGk2EsnmSfQ6v-poeTNsGRaEIarhdqkPK29Aqrs2ORcT9pee9eBbsOrKfqhPpPlaxMmTCtxivPLRxwO/s2340/Screenshot_2022-12-22-21-00-14-895_com.termux.jpg?sanitize=true"></p>
+<img width="95%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV_ja6XrSaSfDnfQmwz07VF9NgQxbxdINQXMAylOFZ4s5Ca6zdbPezhdD6chygUpOpjuhmc_qsXWdcIim7v2dXpNzZAsbYRiPKSARCS9jRj8w0H3is9oehVl4kA_8zttW7Pp8GJ1Q5NKdPCz61Jgx1Fsx0k_OE3ISVap8JBO2VwZvbBC0T3Js3U6lC/s2340/Screenshot_2022-12-22-21-01-17-516_com.termux.jpg?sanitize=true"\>
