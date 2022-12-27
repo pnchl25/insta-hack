@@ -33,7 +33,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 
 ## INSTALLATION [Termux]
 
-```
+```shell
  apt update
  apt upgrade
  pkg install python
@@ -49,7 +49,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 
 ## INSTALLATION [Kali Linux]
 
-```
+```shell
  sudo apt install python
  sudo apt install python3
  sudo apt install git
