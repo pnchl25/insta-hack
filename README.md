@@ -1,6 +1,22 @@
 # Insta-Hack by HackerSM9
 ![Discription](https://socialify-pt57hdgtz-whe.vercel.app/HackerSM9/insta-hack/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 ## ⭐ If Like ..!!
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-9.0.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/HackerSM9/insta-hack?style=for-the-badge&color=teal">
+  <img src="https://img.shields.io/github/stars/HackerSM9/insta-hack?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/HackerSM9/insta-hack?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-HackerSM9-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHackerSM9%2Finsta-hack&title=Visitors&edge_flat=false"/></a>
+</p>
+
 # Disclaimer:
 > **_Note_**: You shall not misuse the information to gain unauthorised access. I will not be Responsible for Anything, Use at Your Own Risk..⚠️ 
 
