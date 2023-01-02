@@ -10,4 +10,3 @@ pip3 install lolcat
 pip install -r requirements.txt
 cd .lib
 bash start
-
