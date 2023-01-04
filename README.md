@@ -1,6 +1,6 @@
 # Insta-Hack by HackerSM9
 ![Discription](https://socialify-pt57hdgtz-whe.vercel.app/HackerSM9/insta-hack/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
-## ⭐ If Like ..!!
+## 🌟 If Like ..!!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-9.0.0-green?style=for-the-badge">
